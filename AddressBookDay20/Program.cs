@@ -168,12 +168,12 @@ namespace AddressBookSystem
     {
         static void SortByCityStateorZip(Collection addressBookCollection, string addressBookName)
         {
-            Console.WriteLine("------------------------------");
+            
             Console.WriteLine("Enter Choice:");
             Console.WriteLine("1) Sort By City");
             Console.WriteLine("2) Sort By State");
             Console.WriteLine("3) Sort By Zip");
-            Console.WriteLine("------------------------------");
+            
             int choice = Convert.ToInt32(Console.ReadLine());
             switch (choice)
             {
