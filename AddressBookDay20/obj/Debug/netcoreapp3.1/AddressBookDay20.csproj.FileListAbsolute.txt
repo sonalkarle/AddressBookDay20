@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\FileIO\AddressBookDay20\AddressBookDay20\AddressBookDay20\obj\Debug\netcoreapp3.1\AddressBookDay20.csprojAssemblyReference.cache
+C:\Users\User\source\repos\FileIO\AddressBookDay20\AddressBookDay20\AddressBookDay20\obj\Debug\netcoreapp3.1\AddressBookDay20.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FileIO\AddressBookDay20\AddressBookDay20\AddressBookDay20\obj\Debug\netcoreapp3.1\AddressBookDay20.AssemblyInfo.cs
+C:\Users\User\source\repos\FileIO\AddressBookDay20\AddressBookDay20\AddressBookDay20\obj\Debug\netcoreapp3.1\AddressBookDay20.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FileIO\AddressBookDay20\AddressBookDay20\AddressBookDay20\bin\Debug\netcoreapp3.1\AddressBookDay20.exe
+C:\Users\User\source\repos\FileIO\AddressBookDay20\AddressBookDay20\AddressBookDay20\bin\Debug\netcoreapp3.1\AddressBookDay20.deps.json
+C:\Users\User\source\repos\FileIO\AddressBookDay20\AddressBookDay20\AddressBookDay20\bin\Debug\netcoreapp3.1\AddressBookDay20.runtimeconfig.json
+C:\Users\User\source\repos\FileIO\AddressBookDay20\AddressBookDay20\AddressBookDay20\bin\Debug\netcoreapp3.1\AddressBookDay20.runtimeconfig.dev.json
+C:\Users\User\source\repos\FileIO\AddressBookDay20\AddressBookDay20\AddressBookDay20\bin\Debug\netcoreapp3.1\AddressBookDay20.dll
+C:\Users\User\source\repos\FileIO\AddressBookDay20\AddressBookDay20\AddressBookDay20\bin\Debug\netcoreapp3.1\AddressBookDay20.pdb
+C:\Users\User\source\repos\FileIO\AddressBookDay20\AddressBookDay20\AddressBookDay20\obj\Debug\netcoreapp3.1\AddressBookDay20.dll
+C:\Users\User\source\repos\FileIO\AddressBookDay20\AddressBookDay20\AddressBookDay20\obj\Debug\netcoreapp3.1\AddressBookDay20.pdb
+C:\Users\User\source\repos\FileIO\AddressBookDay20\AddressBookDay20\AddressBookDay20\obj\Debug\netcoreapp3.1\AddressBookDay20.genruntimeconfig.cache
